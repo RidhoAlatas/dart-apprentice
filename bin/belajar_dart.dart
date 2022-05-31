@@ -1,5 +1,5 @@
-import 'package:belajar_dart/soal_1.dart' as soal_1;
-void main(List<String> arguments) {
+import 'package:belajar_dart/chapter_1.dart' as chapter_1;
 
-  print(soal_1.anjing());
+void main(List<String> arguments) {
+  print(chapter_1.soal_1());
 }
